@@ -1,0 +1,38 @@
+body{
+    background-color: #c90011;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+}
+
+.flex{
+    display: flex;
+}
+
+.container{
+    display: block;
+    background-color: rgb(255, 255, 255);
+    border-radius:15px;
+    padding: 0 20px;
+    width: 500px;
+    margin: 10px;
+    margin: 0%;
+}
+
+input{
+    width: 100%;
+    padding: 12px;
+    background-color: rgb(212, 212, 212);
+    border: none;
+    border-radius: 10px;
+}
+
+button{
+    width: 100%;
+    background-color: #c90011;
+    border-radius: 10px;
+    border: none;
+    margin: 15px;
+    height: 35px;
+}
